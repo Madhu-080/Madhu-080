@@ -39,7 +39,7 @@ Welcome to my GitHub! 👋 I'm a passionate **Data Scientist** and **AI/ML Enthu
 
 ## 🧠 What I'm Currently Learning:
 - Deep dive into **Generative AI** techniques and architectures.
-- Working on **Azure AI** for scalable cloud-based data science applications.
+
 
 ---
 
